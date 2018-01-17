@@ -12,7 +12,7 @@ $ luarocks install kong-upstream-jwt
 ```
 Other:
 ```
-$ git clone https://github.optum.com/Optum/kong-upstream-jwt.git /path/to/kong/plugins/kong-upstream-jwt
+$ git clone https://github.com/Optum/kong-upstream-jwt.git /path/to/kong/plugins/kong-upstream-jwt
 $ cd /path/to/kong/plugins/kong-upstream-jwt
 $ luarocks make *.rockspec
 ```
